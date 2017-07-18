@@ -23,7 +23,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: Sanfy.In
 copyright:
    name: Sanfy.In
-   link: 'http://blog.sanfy.in'
+   link: 'http://www.sanfy.in'
 
 # Build settings
 markdown: kramdown
