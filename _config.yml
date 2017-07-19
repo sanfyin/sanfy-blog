@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Blogs
+title: Sanfy Edu
 email: me@sanfy.in
 description: > # this means to ignore newlines until "baseurl:"
-  Tech blog.
+  Sanfy Education Portal.
   
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sanfy-blog-sanz86.c9users.io:8080/" # the base hostname & protocol for your site
-url2: "http://sanfy-blog-sanz86.c9users.io:8080" 
+url: "http://edu.sanfy.in/" # the base hostname & protocol for your site
+url2: "http://edu.sanfy.in" 
 
 #sidebar
 default-image: default.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
