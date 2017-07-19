@@ -1,4 +1,11 @@
+---
+layout: post
+title: Git Basic Commands
+img: default.png
+---
+
 git -v
+
 git --version
 
 git config --global user.name "User Name"
@@ -131,5 +138,4 @@ git checkout commithash
 git revert commithash
 
 git diff commithash1 commithash2
-
 
