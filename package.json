@@ -2,7 +2,6 @@
   "name": "sanfy-edu",
   "version": "1.0.0",
   "description": "Demo: ",
-  "main": "webpack/entry.js",
   "dependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
@@ -18,7 +17,6 @@
     "url-loader": "^0.5.9"
   },
   "scripts": {
-    "build": "webpack",
     "jserve": "jekyll serve --host 0.0.0.0 --port 8080"
   },
   "repository": {
