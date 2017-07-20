@@ -2,13 +2,7 @@
 layout: default
 ---
 
-<div class="row">
-    <div class="col-md-8">
-        
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-    </div>
-</di>
+<div id="toc"></div>
 
 <div class="row">
 <div class="col-md-8">
@@ -51,3 +45,10 @@ layout: default
 
 
 {% include fb-script.html %}
+
+<script src="http://sanfy-blog-sanz86.c9users.io:8080/js/toc.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>

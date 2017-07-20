@@ -32,6 +32,9 @@ permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
 
+kramdown:
+  parse_block_html: true
+
 # Tracker
 analytics: UA-83979019-1
 
