@@ -115,6 +115,8 @@ git cherry-pick commithash
 
 git reset --soft commithash
 
+git reset --hard origin/master
+
 git staus
 
 Keeps the files on staging
